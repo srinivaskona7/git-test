@@ -1,4 +1,3 @@
 # git-test
 git
-This is demo project for test
-hii
+This is demo project
